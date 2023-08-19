@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-redux-capstone-project/static/css/main.595be8dc.css",
-    "main.js": "/react-redux-capstone-project/static/js/main.7efa747c.js",
+    "main.js": "/react-redux-capstone-project/static/js/main.cf52301f.js",
     "index.html": "/react-redux-capstone-project/index.html",
     "main.595be8dc.css.map": "/react-redux-capstone-project/static/css/main.595be8dc.css.map",
-    "main.7efa747c.js.map": "/react-redux-capstone-project/static/js/main.7efa747c.js.map"
+    "main.cf52301f.js.map": "/react-redux-capstone-project/static/js/main.cf52301f.js.map"
   },
   "entrypoints": [
     "static/css/main.595be8dc.css",
-    "static/js/main.7efa747c.js"
+    "static/js/main.cf52301f.js"
   ]
 }
