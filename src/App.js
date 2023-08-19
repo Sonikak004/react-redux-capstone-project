@@ -22,7 +22,7 @@ function App() {
   }, [dispatch]);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-redux-capstone-project">
       <div className="App">
         {/* Move the Header component outside of Routes */}
         <Header />
