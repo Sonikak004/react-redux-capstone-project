@@ -61,7 +61,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://sonikak004.github.io/react-redux-capstone-project)
-- [Presentation Video Link]()
+- [Presentation Video Link](https://www.loom.com/share/ab5fe699ec4049c9a3e8aee6cd444806?sid=db630c59-c401-4992-99aa-53520e422575)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
