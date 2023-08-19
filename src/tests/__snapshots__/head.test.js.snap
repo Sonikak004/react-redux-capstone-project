@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component should match snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="header-left"
+    >
+      <h1>
+        Country Explorer
+      </h1>
+    </div>
+    <div
+      class="header-right"
+    >
+      <button
+        class="icon-button"
+        type="button"
+      >
+        <i
+          class="fas fa-microphone"
+        />
+      </button>
+      <button
+        class="icon-button"
+        type="button"
+      >
+        <i
+          class="fas fa-cog"
+        />
+      </button>
+    </div>
+  </header>
+</DocumentFragment>
+`;
