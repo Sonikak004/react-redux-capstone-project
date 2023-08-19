@@ -38,13 +38,6 @@
   text-align: center;
 }
 
-.country-card:hover {
-  box-shadow: 0 5px 7px rgb(6 5 5 / 15%);
-  height: 295px;
-  background: #f95593;
-  width: 413px;
-}
-
 .country-flag {
   height: 250px;
   width: auto;
@@ -183,11 +176,4 @@ select {
 .error {
   color: white;
   font-size: 20px;
-}
-
-@media only screen and (max-width: 600px) {
-  .country-card:hover {
-    box-shadow: 0 5px 7px rgb(6 5 5 / 15%);
-    background: #f95593;
-  }
 }
